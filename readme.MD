@@ -6,5 +6,5 @@
 
 ## Karam Dosa
 * Dosa Batter
-* Karam
+* Red Karam
 * oil
