@@ -12,3 +12,8 @@
 ## Egg Dosa
 * Dosa Batter
 * 1/2 eggs and karam
+
+## Mushroom Dosa
+* Dosa Batter
+* Mushroom Masala
+* Oil
